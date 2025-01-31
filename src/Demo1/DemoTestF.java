@@ -14,6 +14,7 @@ public class DemoTestF {
 		System.out.println(name[2]);
 		System.out.println(name[0]);
 		System.out.println(name[3]);
+		System.out.println(name[0], name[1], name[2], name[3]);
 
 	}
 
